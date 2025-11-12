@@ -31,5 +31,4 @@ If you like what I do or want to encourage my learning journey, you can support 
 
 I’m always open to collaborations, feedback, and learning opportunities.
 Feel free to reach out or check out my latest work here on GitHub!
--->
-[![Waweru-Duncan GitHub stats](https://github-readme-stats.vercel.app/api?username=Waweru-Duncan)](https://github.com/Waweru-Duncan/github-readme-stats)
+
