@@ -24,8 +24,6 @@ Version Control: Git & GitHub
 
 🌟 Support My Work
 
-If you like what I do or want to encourage my learning journey, you can support me here:
-☕ Buy Me a Coffee: https://buymeacoffee.com/vand
 
 📫 Let’s Connect
 
