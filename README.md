@@ -21,10 +21,6 @@ Backend: Node.js, Hono.js, mysql
 
 Version Control: Git & GitHub
 
-
-🌟 Support My Work
-
-
 📫 Let’s Connect
 
 I’m always open to collaborations, feedback, and learning opportunities.
