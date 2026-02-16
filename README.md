@@ -1,4 +1,4 @@
-👋 Hi there, I'm Duncan!
+Hi there, I'm Duncan!
 
 I’m a passionate Full-Stack Developer in training who loves creating clean, functional, and visually appealing digital experiences.
 Right now, I’m learning how to build full-stack applications from scratch, blending front-end design with back-end logic to bring ideas to life.
